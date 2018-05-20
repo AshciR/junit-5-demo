@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertTimeout;
 import static org.junit.jupiter.api.Assertions.assertTimeoutPreemptively;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class MainTest{
+class AssertionDemos{
 
     private Contribution contribution;
 
